@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ハッピーをちょうだい",
+  "base_artist": "パーカーズ",
+  "createdAt": "2026-02-14T04:11:24.654796Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハッピーをちょうだい",
+      "artist": "パーカーズ",
+      "has_synced": false,
+      "path": "select/pl_01_ハッピーをちょうだい_パーカーズ.txt"
+    }
+  ]
+}
